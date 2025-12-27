@@ -36,7 +36,7 @@ Skip connections help preserve spatial information and improve segmentation accu
 
 ## 📂 Repository Structure
 
-├── UNet_Smoke_Semantic_Segmentation.ipynb
+├── u-net-smok-segmentation.ipynb
 
 ├── requirements.txt
 
