@@ -41,3 +41,6 @@ Skip connections help preserve spatial information and improve segmentation accu
 ├── requirements.txt
 
 ├── README.md
+
+**Dataset link:**  
+[Smoke Segmentation Dataset on Kaggle](https://www.kaggle.com/datasets/sabrimdaini/smoke-segmentation)
